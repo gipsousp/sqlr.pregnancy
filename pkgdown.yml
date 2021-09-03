@@ -2,8 +2,8 @@ pandoc: 2.7.3
 pkgdown: 1.6.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2021-04-25T18:15Z
+last_built: 2021-09-03T01:11Z
 urls:
-  reference: https://gipsousp.github.io/sqlr.pregnancy//reference
-  article: https://gipsousp.github.io/sqlr.pregnancy//articles
+  reference: https://gipso.github.io/pregnancy.2020//reference
+  article: https://gipso.github.io/pregnancy.2020//articles
 
